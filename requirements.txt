@@ -1,1 +1,1 @@
-session_info        1.0.0
+session_info == 1.0.0
